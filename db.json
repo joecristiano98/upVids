@@ -47,14 +47,8 @@
       "caption": "Mr Bean's Successful Movie Premiere | Mr Bean's Holiday",
       "cover_image": "https://i.ytimg.com/vi/kIOLN6TSEbg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChAMA8=&rs=AOn4CLBmbLRJ8uqIsxVfBN4axvZxSV-5jw",
       "video_url": "https://www.youtube.com/embed/kIOLN6TSEbg?autoplay=1"
-    },
-    {
-      "id": 9,
-      "caption": "Top 20 SHOCKING Goals In Football History",
-      "cover_image": "https://i.ytimg.com/vi/clQKBdjl-3w/maxresdefault.jpg",
-      "video_url": "https://www.youtube.com/embed/clQKBdjl-3w?autoplay=1"
     }
-  ],
+    ],
   "categories": [
     {
       "id": 6,
@@ -107,14 +101,8 @@
           "caption": "Cristiano Ronaldo 2010/11: Magic Skills & Dribbling",
           "cover_image": "https://i.ytimg.com/vi/4nbgXhZNEOk/maxresdefault.jpg",
           "video_url": "https://www.youtube.com/embed/4nbgXhZNEOk?autoplay=1"
-        },
-        {
-          "id": 9,
-          "caption": "Top 20 SHOCKING Goals In Football History",
-          "cover_image": "https://i.ytimg.com/vi/clQKBdjl-3w/maxresdefault.jpg",
-          "video_url": "https://www.youtube.com/embed/clQKBdjl-3w?autoplay=1"
         }
-      ]
+        ]
     },
     {
       "id": 8,
@@ -154,12 +142,7 @@
       "url": "https://www.youtube.com/embed/XNJCdv2E7Jc?autoplay=1",
       "date": "2023-11-06 11:29:13 PM"
     },
-    {
-      "id": "lopp8izd",
-      "video_title": "Top 20 SHOCKING Goals In Football History",
-      "url": "https://www.youtube.com/embed/clQKBdjl-3w?autoplay=1",
-      "date": "2023-11-08 5:21:04 PM"
-    },
+    
     {
       "id": "lopp8n21",
       "video_title": "Mr Bean's Successful Movie Premiere | Mr Bean's Holiday",
